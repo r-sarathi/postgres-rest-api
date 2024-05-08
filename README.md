@@ -2,6 +2,9 @@
 
 This project implements a RESTful API with CRUD (Create, Read, Update, Delete) operations, utilizing PostgreSQL as the database and Sequelize as the ORM (Object-Relational Mapping) tool. The API is designed to manage resources stored in the PostgreSQL database, providing endpoints for creating, reading, updating, and deleting records.
 
+https://github.com/r-sarathi/postgres-rest-api/assets/141658108/e6d3ec4c-ca0f-49b4-8484-d8ad70261792
+
+
 ## Features
 - Create new records in the database
 - Retrieve existing records from the database
