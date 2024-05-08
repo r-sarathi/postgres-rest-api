@@ -19,6 +19,15 @@ https://github.com/r-sarathi/postgres-rest-api/assets/141658108/e6d3ec4c-ca0f-49
 - dotenv: Module for loading environment variables from a .env file
 - Other dependencies: bcrypt, jsonwebtoken, nodemon (for development)
 
+ ## User Authentication and Authorization
+This project includes user authentication and role-based authorization capabilities. Users can authenticate using their credentials, and their access to certain endpoints is restricted based on their assigned role.
+
+### Role Types
+The following role types are available:
+- **Admin**: Has full access to all endpoints and resources.
+- **User**: Has limited access, typically to view or modify their own resources.
+You can assign roles to users during user registration or update their roles as needed.
+
 ## Getting started
 
 1. Clone the repository: 
